@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 I am a software developer with over 1.6 years of experience. I am passionate about software development and fullstack web development and I'm looking forward to getting to work on challenging and complex projects in near future.<br><br>Currently employed as a software engineer at TCS. In TCS i am working for a US based healthcare company.In TCS i have worked on technologies like Angular2+, Python, Teradata. In my spare time i like to learn about fullstack web development.
 
-[My Resume](https://drive.google.com/file/d/171Zkb522Ud3-nmaP602yesKveqv2d7iM/view?usp=share_link)
+[My Resume](https://bit.ly/3XBa43E)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aranyak1) 
